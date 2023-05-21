@@ -1,6 +1,6 @@
-![MasterHead](https://github4life.herokuapp.com/ethomson.gif)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/22/N-88BASIC_v1.0.gif)
 
-<h1 align="center">Hi 👋, I'm Adarsh Anand</h1>
+<h1 align="center">Hello, Floks! 🙋‍♂️, I'm Adarsh Anand</h1>
 <h3 align="center">"Bringing Ideas to Life with Code and Design!"</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
