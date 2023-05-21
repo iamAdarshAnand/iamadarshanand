@@ -1,3 +1,5 @@
+![MasterHead](https://github4life.herokuapp.com/ethomson.gif)
+
 <h1 align="center">Hi 👋, I'm Adarsh Anand</h1>
 <h3 align="center">"Bringing Ideas to Life with Code and Design!"</h3>
 
