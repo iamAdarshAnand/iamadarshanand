@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamadarshanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamadarshanand" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarshanandofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshanandofficial" height="30" width="40" /></a>
-<a href="https://fb.com/adarshanandofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarshanandofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/iamadarshanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamadarshanand" height="30" width="40" /></a>
+<a href="https://twitter.com/iamadarshanand" target="blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" alt="iamadarshanand" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarshanandofficial" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" alt="adarshanandofficial" height="30" width="30" /></a>
+<a href="https://fb.com/adarshanandofficial" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="adarshanandofficial" height="30" width="30" /></a>
+<a href="https://instagram.com/iamadarshanand" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="iamadarshanand" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
