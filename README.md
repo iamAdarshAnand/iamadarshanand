@@ -34,5 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamadarshanand&show_icons=true&locale=en" alt="iamadarshanand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamadarshanand&" alt="iamadarshanand" /></p>
-
- <a href="" target="blank"><img align="right" src="https://media.tenor.com/wZEqCLlcRFkAAAAi/redhorn-heart.gif" alt="iamadarshanand" height="70" width="50" /></a>
+<a href="https://github.com/iamAdarshAnand" target="blank"><img align="right" src="https://media.tenor.com/wZEqCLlcRFkAAAAi/redhorn-heart.gif" alt="iamadarshanand" height="70" width="50" /></a>
