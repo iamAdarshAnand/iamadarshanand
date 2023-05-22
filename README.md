@@ -34,7 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamadarshanand&show_icons=true&locale=en" alt="iamadarshanand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamadarshanand&" alt="iamadarshanand" /></p>
-<a href="https://github.com/iamAdarshAnand" target="blank"><img align="centre" src="https://media.tenor.com/WcJhKVg1t-gAAAAi/blue-ball.gif" alt="iamadarshanand" height="40" width="80" /></a>
+<a href="https://github.com/iamAdarshAnand" target="blank"><img align="centre" src="https://media.tenor.com/WcJhKVg1t-gAAAAi/blue-ball.gif" alt="iamadarshanand" height="30" width="60" /></a>
 
 
 
