@@ -1,6 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/22/N-88BASIC_v1.0.gif)
 
 
+
 <h1 align="center">Hello, Folks! 🙋‍♂️, I'm Adarsh Anand</h1>
 <h3 align="center">"Bringing Ideas to Life with Code and Design!"</h3>
 
@@ -33,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamadarshanand&show_icons=true&locale=en" alt="iamadarshanand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamadarshanand&" alt="iamadarshanand" /></p>
+
+ <a href="" target="blank"><img align="right" src="https://media.tenor.com/wZEqCLlcRFkAAAAi/redhorn-heart.gif" alt="iamadarshanand" height="70" width="50" /></a>
