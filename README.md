@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **LINUX, CLOUD COMPUTING, DATA VISUALIZATION**
 
-- 📫 How to reach me **foradarshanand@gmail.com**
+- 📫 How to reach me **iamadarshanand@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
