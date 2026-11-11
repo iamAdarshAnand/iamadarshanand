@@ -36,5 +36,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamadarshanand&" alt="iamadarshanand" /></p>
 <a href="https://github.com/iamAdarshAnand" target="blank"><img align="centre" src="https://media.tenor.com/WcJhKVg1t-gAAAAi/blue-ball.gif" alt="iamadarshanand" height="30" width="60" /></a>
 
+---
 
+## 🏆 Achievements & Milestones
 
+### Major achievements
+- **Smart India Hackathon 2023:** Selected for the Grand Finale.
+- **Infosys Internship — Bhasha Bridge Translator:** Contributed to UI design, frontend development, and user-experience improvements.
+- **Academic performance:** Achieved a reported **9.4 SGPA** and top-ranker recognition during B.Tech studies.
+
+### Additional milestones
+- **TCS iON RIO-125 Industry Project:** Worked on automated grammatical-error detection and correction using NLP techniques.
+- **AI/ML projects:** Built or explored fake-profile detection, age and gender detection, road-lane detection, and CV-based personality prediction.
+- **Full-stack development:** Developed web applications and interactive learning/practice tools.
+- **Information security:** Pursuing postgraduate study in information security alongside software development.
+
+> These are personal and academic milestones. GitHub's official achievement badges are awarded separately by GitHub based on qualifying activity.
