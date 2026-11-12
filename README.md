@@ -1,40 +1,72 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/22/N-88BASIC_v1.0.gif)
+<div align="center">
 
+# Hi, I'm Adarsh Anand 👋
 
+### AI/ML Engineer · Researcher · Innovator
 
-<h1 align="center">Hello, Folks! 🙋‍♂️, I'm Adarsh Anand</h1>
-<h3 align="center">"Bringing Ideas to Life with Code and Design!"</h3>
+**Full-stack development · Artificial Intelligence · Cybersecurity · Creative Technology**
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+I build web applications, software solutions, and AI-powered systems, turning ideas into practical projects. Beyond coding, I enjoy writing, research, and learning.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-8AD83D?style=for-the-badge)](https://adarshanand.is-a.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-iamAdarshAnand-181717?style=for-the-badge&logo=github)](https://github.com/iamAdarshAnand)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge)](mailto:iamadarshanand@yahoo.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamadarshanand&label=Profile%20views&color=0e75b6&style=flat" alt="iamadarshanand" /> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/iamadarshanand" target="blank"><img src="https://img.shields.io/twitter/follow/iamadarshanand?logo=twitter&style=for-the-badge" alt="iamadarshanand" /></a> </p>
+## About me
 
-- 🌱 I’m currently learning **Frameworks**
+- 💻 Developing **full-stack applications, AI/ML projects, and interactive websites**
+- 🔐 Exploring **cybersecurity and information security**
+- 🧠 Interested in **machine learning, computer vision, research, and applied AI**
+- ✍️ Enjoy **writing, design, and creative technology**
+- 🌐 Portfolio: **[adarshanand.is-a.dev](https://adarshanand.is-a.dev)**
 
-- 💬 Ask me about **LINUX, CLOUD COMPUTING, DATA VISUALIZATION**
+## Featured projects
 
-- 📫 How to reach me **iamadarshanand@yahoo.com**
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Portfolio Dashboard](https://github.com/iamAdarshAnand/portfolio-dashboard) | Personal developer portfolio and interactive web experience | Web development |
+| [VisionAI Studio](https://github.com/iamAdarshAnand/VisionAI-Studio) | Interactive image-processing workbench | Python, OpenCV, Streamlit |
+| [AI Research Assistant](https://github.com/iamAdarshAnand/AI-Research-Assistant) | Local PDF semantic search with source citations | Python, NLP, Streamlit |
+| [ML Model Playground](https://github.com/iamAdarshAnand/ML-Model-Playground) | Interactive ML model comparison and evaluation | scikit-learn, Streamlit |
+| [CyberShield Analyzer](https://github.com/iamAdarshAnand/CyberShield-Analyzer) | Security log analytics and suspicious activity indicators | Python, Streamlit |
+| [RIDEON](https://github.com/iamAdarshAnand/RideOn) | Educational ride-hailing application prototype | Flutter, Node.js, SQLite |
+| [NEON RUN](https://github.com/iamAdarshAnand/Neon-Run) | Offline Android endless-runner game | Java, HTML5 Canvas |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamadarshanand" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="iamadarshanand" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/adarshanandofficial" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" alt="adarshanandofficial" height="30" width="30" /></a>
-<a href="https://fb.com/adarshanandofficial" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="adarshanandofficial" height="30" width="30" /></a>
-<a href="https://instagram.com/iamadarshanand" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="iamadarshanand" height="30" width="30" /></a>
-</p>
+## Technologies and interests
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Linux_tux_circle_logo.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.secret-source.eu/wp-content/uploads/2017/11/node-js-logo.jpg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Unity_5_logo.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Languages:** Python · JavaScript · Java · HTML · CSS · SQL
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamadarshanand&show_icons=true&locale=en&layout=compact" alt="iamadarshanand" /></p>
+**Development:** React · Next.js · Node.js · Git · GitHub · Flutter
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamadarshanand&show_icons=true&locale=en" alt="iamadarshanand" /></p>
+**AI and data:** Machine Learning · scikit-learn · OpenCV · Data Visualization
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamadarshanand&" alt="iamadarshanand" /></p>
-<a href="https://github.com/iamAdarshAnand" target="blank"><img align="centre" src="https://media.tenor.com/WcJhKVg1t-gAAAAi/blue-ball.gif" alt="iamadarshanand" height="30" width="60" /></a>
+**Security:** Cybersecurity · Application Security · Information Security
 
+## GitHub activity
 
+<div align="center">
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAdarshAnand&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAdarshAnand&layout=compact&hide_border=true)
+
+</div>
+
+> GitHub stats are provided by an external service and may occasionally be unavailable.
+
+## Connect
+
+- **Website:** [adarshanand.is-a.dev](https://adarshanand.is-a.dev)
+- **LinkedIn:** [adarshanandofficial](https://www.linkedin.com/in/adarshanandofficial/)
+- **Instagram:** [iamadarshanand](https://www.instagram.com/iamadarshanand/)
+- **Email:** [iamadarshanand@yahoo.com](mailto:iamadarshanand@yahoo.com)
+
+---
+
+<div align="center">
+
+*Building, researching, and creating — one project at a time.*
+
+</div>
