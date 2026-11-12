@@ -36,13 +36,23 @@ I build web applications, software solutions, and AI-powered systems, turning id
 
 ## Technologies and interests
 
-**Languages:** Python · JavaScript · Java · HTML · CSS · SQL
+<div align="center">
 
-**Development:** React · Next.js · Node.js · Git · GitHub · Flutter
+**Languages**
 
-**AI and data:** Machine Learning · scikit-learn · OpenCV · Data Visualization
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,mysql&theme=dark" alt="Python, JavaScript, Java, HTML, CSS, SQL" />
 
-**Security:** Cybersecurity · Application Security · Information Security
+**Development**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,flutter&theme=dark" alt="React, Next.js, Node.js, Git, GitHub, Flutter" />
+
+**AI, Data & Security**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,linux,bash&theme=dark" alt="PyTorch, TensorFlow, OpenCV, scikit-learn, Linux, Bash" />
+
+**Interests:** Machine Learning · Computer Vision · Cybersecurity · Application Security · Data Visualization
+
+</div>
 
 ## GitHub activity
 
