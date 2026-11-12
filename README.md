@@ -8,8 +8,8 @@
 
 I'm **Adarsh Anand**, a software developer and AI/ML engineer working on **full-stack web development, machine learning, computer vision, cybersecurity, and Android applications**. I build practical open-source projects, interactive developer tools, and AI-powered systems. Beyond coding, I enjoy writing, research, and learning.
 
-[![Main Portfolio](https://img.shields.io/badge/Main-Portfolio-8AD83D?style=for-the-badge)](https://adarshanand.is-a.dev)
-[![Secondary Website](https://img.shields.io/badge/Secondary-Website-2563EB?style=for-the-badge)](https://adarshanand.is-a-fullstack.dev)
+[![Website](https://img.shields.io/badge/Portfolio-8AD83D?style=for-the-badge)](https://adarshanand.is-a.dev)
+[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge)](https://adarshanand.is-a-fullstack.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-iamAdarshAnand-181717?style=for-the-badge&logo=github)](https://github.com/iamAdarshAnand)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge)](mailto:iamadarshanand@yahoo.com)
 
@@ -23,8 +23,8 @@ I'm **Adarsh Anand**, a software developer and AI/ML engineer working on **full-
 - 🔐 Exploring **cybersecurity and information security**
 - 🧠 Interested in **machine learning, computer vision, research, and applied AI**
 - ✍️ Enjoy **writing, design, and creative technology**
-- 🌐 **Primary portfolio:** [adarshanand.is-a.dev](https://adarshanand.is-a.dev)
-- 🔗 **Secondary website:** [adarshanand.is-a-fullstack.dev](https://adarshanand.is-a-fullstack.dev)
+- 🌐 **Website:** [adarshanand.is-a.dev](https://adarshanand.is-a.dev)
+- 🔗 **Website:** [adarshanand.is-a-fullstack.dev](https://adarshanand.is-a-fullstack.dev)
 
 ## Software engineering, AI and cybersecurity projects
 
@@ -71,8 +71,8 @@ My GitHub repositories include Python machine learning tools, OpenCV computer vi
 
 ## Connect
 
-- **Primary website:** [adarshanand.is-a.dev](https://adarshanand.is-a.dev)
-- **Secondary website:** [adarshanand.is-a-fullstack.dev](https://adarshanand.is-a-fullstack.dev)
+- **Website:** [adarshanand.is-a.dev](https://adarshanand.is-a.dev)
+- **Website:** [adarshanand.is-a-fullstack.dev](https://adarshanand.is-a-fullstack.dev)
 - **LinkedIn:** [adarshanandofficial](https://www.linkedin.com/in/adarshanandofficial/)
 - **Instagram:** [iamadarshanand](https://www.instagram.com/iamadarshanand/)
 - **Email:** [iamadarshanand@yahoo.com](mailto:iamadarshanand@yahoo.com)
