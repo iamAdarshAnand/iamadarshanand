@@ -1,14 +1,15 @@
 <div align="center">
 
-# Hi, I'm Adarsh Anand 👋
+# Adarsh Anand — AI/ML Engineer, Full-Stack Developer & Cybersecurity Enthusiast 👋
 
 ### AI/ML Engineer · Researcher · Innovator
 
 **Full-stack development · Artificial Intelligence · Cybersecurity · Creative Technology**
 
-I build web applications, software solutions, and AI-powered systems, turning ideas into practical projects. Beyond coding, I enjoy writing, research, and learning.
+I'm **Adarsh Anand**, a software developer and AI/ML engineer working on **full-stack web development, machine learning, computer vision, cybersecurity, and Android applications**. I build practical open-source projects, interactive developer tools, and AI-powered systems. Beyond coding, I enjoy writing, research, and learning.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-8AD83D?style=for-the-badge)](https://adarshanand.is-a.dev)
+[![Main Portfolio](https://img.shields.io/badge/Main-Portfolio-8AD83D?style=for-the-badge)](https://adarshanand.is-a.dev)
+[![Secondary Website](https://img.shields.io/badge/Secondary-Website-2563EB?style=for-the-badge)](https://adarshanand.is-a-fullstack.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-iamAdarshAnand-181717?style=for-the-badge&logo=github)](https://github.com/iamAdarshAnand)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge)](mailto:iamadarshanand@yahoo.com)
 
@@ -22,7 +23,12 @@ I build web applications, software solutions, and AI-powered systems, turning id
 - 🔐 Exploring **cybersecurity and information security**
 - 🧠 Interested in **machine learning, computer vision, research, and applied AI**
 - ✍️ Enjoy **writing, design, and creative technology**
-- 🌐 Portfolio: **[adarshanand.is-a.dev](https://adarshanand.is-a.dev)**
+- 🌐 **Primary portfolio:** [adarshanand.is-a.dev](https://adarshanand.is-a.dev)
+- 🔗 **Secondary website:** [adarshanand.is-a-fullstack.dev](https://adarshanand.is-a-fullstack.dev)
+
+## Software engineering, AI and cybersecurity projects
+
+My GitHub repositories include Python machine learning tools, OpenCV computer vision experiments, Streamlit data applications, security analysis dashboards, Flutter prototypes, Android games, and responsive full-stack websites. Explore the source code and development notes below.
 
 ## Featured projects
 
@@ -65,7 +71,8 @@ I build web applications, software solutions, and AI-powered systems, turning id
 
 ## Connect
 
-- **Website:** [adarshanand.is-a.dev](https://adarshanand.is-a.dev)
+- **Primary website:** [adarshanand.is-a.dev](https://adarshanand.is-a.dev)
+- **Secondary website:** [adarshanand.is-a-fullstack.dev](https://adarshanand.is-a-fullstack.dev)
 - **LinkedIn:** [adarshanandofficial](https://www.linkedin.com/in/adarshanandofficial/)
 - **Instagram:** [iamadarshanand](https://www.instagram.com/iamadarshanand/)
 - **Email:** [iamadarshanand@yahoo.com](mailto:iamadarshanand@yahoo.com)
