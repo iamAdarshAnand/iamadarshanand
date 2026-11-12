@@ -12,6 +12,8 @@ I build web applications, software solutions, and AI-powered systems, turning id
 [![GitHub](https://img.shields.io/badge/GitHub-iamAdarshAnand-181717?style=for-the-badge&logo=github)](https://github.com/iamAdarshAnand)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge)](mailto:iamadarshanand@yahoo.com)
 
+![Profile visitors](https://komarev.com/ghpvc/?username=iamadarshanand&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
+
 </div>
 
 ## About me
@@ -48,16 +50,6 @@ I build web applications, software solutions, and AI-powered systems, turning id
 
 [![Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/iamAdarshAnand?tab=repositories)
 [![Contributions](https://img.shields.io/badge/View-Contributions-238636?style=for-the-badge&logo=github)](https://github.com/iamAdarshAnand)
-
-</div>
-
-## Profile visitors
-
-<div align="center">
-
-![Profile visitors](https://komarev.com/ghpvc/?username=iamadarshanand&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
-
-<sub>Uses the original visitor-counter identity to retain its existing history where supported by the counter provider.</sub>
 
 </div>
 
