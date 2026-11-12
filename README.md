@@ -24,15 +24,13 @@ I build web applications, software solutions, and AI-powered systems, turning id
 
 ## Featured projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Portfolio Dashboard](https://github.com/iamAdarshAnand/portfolio-dashboard) | Personal developer portfolio and interactive web experience | Web development |
-| [VisionAI Studio](https://github.com/iamAdarshAnand/VisionAI-Studio) | Interactive image-processing workbench | Python, OpenCV, Streamlit |
-| [AI Research Assistant](https://github.com/iamAdarshAnand/AI-Research-Assistant) | Local PDF semantic search with source citations | Python, NLP, Streamlit |
-| [ML Model Playground](https://github.com/iamAdarshAnand/ML-Model-Playground) | Interactive ML model comparison and evaluation | scikit-learn, Streamlit |
-| [CyberShield Analyzer](https://github.com/iamAdarshAnand/CyberShield-Analyzer) | Security log analytics and suspicious activity indicators | Python, Streamlit |
-| [RIDEON](https://github.com/iamAdarshAnand/RideOn) | Educational ride-hailing application prototype | Flutter, Node.js, SQLite |
-| [NEON RUN](https://github.com/iamAdarshAnand/Neon-Run) | Offline Android endless-runner game | Java, HTML5 Canvas |
+- **[Portfolio Dashboard](https://github.com/iamAdarshAnand/portfolio-dashboard)** — Interactive personal developer portfolio.
+- **[VisionAI Studio](https://github.com/iamAdarshAnand/VisionAI-Studio)** — Image processing with Python, OpenCV and Streamlit.
+- **[AI Research Assistant](https://github.com/iamAdarshAnand/AI-Research-Assistant)** — Local PDF semantic search with cited passages.
+- **[ML Model Playground](https://github.com/iamAdarshAnand/ML-Model-Playground)** — scikit-learn classification model comparison.
+- **[CyberShield Analyzer](https://github.com/iamAdarshAnand/CyberShield-Analyzer)** — Security log analysis dashboard.
+- **[RIDEON](https://github.com/iamAdarshAnand/RideOn)** — Flutter ride-hailing development prototype.
+- **[NEON RUN](https://github.com/iamAdarshAnand/Neon-Run)** — Offline Android endless-runner game.
 
 ## Technologies and interests
 
@@ -48,13 +46,20 @@ I build web applications, software solutions, and AI-powered systems, turning id
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAdarshAnand&show_icons=true&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAdarshAnand&layout=compact&hide_border=true)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/iamAdarshAnand?tab=repositories)
+[![Contributions](https://img.shields.io/badge/View-Contributions-238636?style=for-the-badge&logo=github)](https://github.com/iamAdarshAnand)
 
 </div>
 
-> GitHub stats are provided by an external service and may occasionally be unavailable.
+## Profile visitors
+
+<div align="center">
+
+![Profile visitors](https://komarev.com/ghpvc/?username=iamadarshanand&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
+
+<sub>Uses the original visitor-counter identity to retain its existing history where supported by the counter provider.</sub>
+
+</div>
 
 ## Connect
 
